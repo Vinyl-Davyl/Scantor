@@ -1,0 +1,19 @@
+{
+  "name": "Scantor QR Code Extension",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "scantor.jpg",
+    "default_title": "Scantor"
+  },
+  "icons": {
+    "128": "scantor.jpg"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["Content.js"]
+    }
+  ]
+}
