@@ -9,8 +9,6 @@
 
 > Scantor, Effortlessly create QR / Scan codes for any URL, link, or address of your choice, easily scan existing QR codes in a user friendly manner as well. Whether you want to share a website link or encode location details, our user-friendly tool simplifies the process, making it convenient for all your QR code needs.
 
-### ✨ [Live Demo]()
-
 ## Author
 
 👤 **Vinyl Davyl**
